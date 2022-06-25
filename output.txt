@@ -1,0 +1,28 @@
+ Name of the Wikipedia article:      University of Vienna
+ Word count:                         2790
+ Number of links:                    427
+ Number of all pronouns:             25
+ Number of male pronouns:            4
+ Number of female pronouns:          3
+
+ Name of the Wikipedia article:      Erwin Schrödinger
+ Word count:                         4286
+ Number of links:                    469
+ Number of all pronouns:             210
+ Number of male pronouns:            170
+ Number of female pronouns:          13
+
+ Name of the Wikipedia article:      Noam Chomsky
+ Word count:                         9144
+ Number of links:                    2194
+ Number of all pronouns:             387
+ Number of male pronouns:            299
+ Number of female pronouns:          2
+
+ Name of the Wikipedia article:      Elfriede Jelinek
+ Word count:                         2977
+ Number of links:                    548
+ Number of all pronouns:             87
+ Number of male pronouns:            6
+ Number of female pronouns:          70
+
